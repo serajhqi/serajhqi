@@ -3,7 +3,7 @@ __Full Stack Developer__ with 5+ years of experience in the IT industry. Special
 ### Skills:
 
 __Back End__:
-Node.js, Express.js, PHP + FatFree, MySQL, ArangoDB, , REST API, Socket.IO, Python
+Apache Kafka, ksqlDB, Kafka Stream, Redpanda, Benthos, RabbitMQ, Node.js, Express.js, PHP + FatFree, MySQL, ArangoDB, , REST API, Socket.IO, Python
   
 __Front End__: 
 Vue.js, React.js, Angular, Svelte, Vite-Plugin-SSR, Tailwind CSS, Javascript
