@@ -1,6 +1,4 @@
-__Full Stack Developer__ with 7+ years of experience in the IT industry. Specialized in developing web applications. Love problem-solving and finding efficient solutions to get the jobs done. Looking for new opportunities to pursue this purpose.
-
-Interested in Microservices and Data Science
+__Full Stack Developer__ with 7+ years of experience in the IT industry. Love problem-solving and finding efficient solutions. Interested in Microservices and Data Science.
 
 ### Skills:
 
